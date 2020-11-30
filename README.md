@@ -1,2 +1,2 @@
-# Repositorio
+# Repositório
  Primeiro repositorio para aprendizado
